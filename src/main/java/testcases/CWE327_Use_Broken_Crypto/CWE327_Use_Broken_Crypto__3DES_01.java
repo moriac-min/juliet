@@ -15,7 +15,7 @@ Template File: point-flaw-01.tmpl.java
 
 package testcases.CWE327_Use_Broken_Crypto;
 
-
+import testcasesupport.*;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
